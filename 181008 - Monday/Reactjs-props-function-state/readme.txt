@@ -1,5 +1,5 @@
 ﻿1. Props
-Sử dụng props để linh động giá trị cho các thuộc tính của thẻ
+Sử dụng props để linh động nội dung thẻ và giá trị các thuộc tính của thẻ
 VD:
 Trong section.js:
 	<p> Day la {this.props.title} </p>
