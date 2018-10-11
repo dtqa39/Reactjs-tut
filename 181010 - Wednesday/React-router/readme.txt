@@ -15,8 +15,9 @@ Cụ thể từng phần như sau:
 1. Tạo giao diện
 - Dựng giao diện sử dụng HTML, CSS, các thư viện thông thường//gọi trang này là trang giao diện
 2. Điều hướng
-	#1. Trong thư mục src, tạo thư mục component, các component chính của trang web (trang web mà ta đang xây dựng) sẽ được lưu trữ tại đây.
-	#2. Trong thư mục src, tạo thư mục CSS, chuyển các file app.css và index.css vào thư mục này, đây là nơi lưu trữ css của trang web
+	#1Tạo 1 project mới bằng lệnh "create-react-app" và "npm start"
+	#2. Trong thư mục src, tạo thư mục component, các component chính của trang web (trang web mà ta đang xây dựng) sẽ được lưu trữ tại đây.
+		Trong thư mục src, tạo thư mục CSS, chuyển các file app.css và index.css vào thư mục này, đây là nơi lưu trữ css của trang web
 	#3. Copy code css của trang giao diện sang file css của trang web.
 	#4. Tạo các component chính của trang ở folder component, những component mà sẽ giữ nguyên khi điều hướng, chuyển đổi HTML từ trang giao diện sang JSX cho các component,sau đấy import vào app.js như thông thường
 	#5. Chuyển phần đường dẫn thư viện từ trang giao diện sang trang index.html (folder public), thêm %PUBLIC_URL% nếu là đường dẫn tương đối (tương tự khi chuyển 1 trang HTML sang Reactjs thông thường)
