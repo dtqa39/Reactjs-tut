@@ -14,15 +14,6 @@ class Nav extends Component {
                         </button>
                         <div className="collapse navbar-collapse" id="navbarResponsive">
                         <ul className="navbar-nav ml-auto">
-                            {/* <li className="nav-item">
-                            <a className="nav-link js-scroll-trigger" href="/download">Download</a>
-                            </li>
-                            <li className="nav-item">
-                            <a className="nav-link js-scroll-trigger" href="/feature">Feature</a>
-                            </li>
-                            <li className="nav-item">
-                            <a className="nav-link js-scroll-trigger" href="/contact">Contact</a>
-                            </li> */}
                             <li>
                             <NavLink to="/" className="nav-link js-scroll-trigger">Home</NavLink>
                             </li>
