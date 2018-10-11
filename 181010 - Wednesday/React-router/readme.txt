@@ -109,4 +109,4 @@ Bug:
 Lỗi đường dẫn khi thay đổi vị trí các file css, cả trong src, cả từ trang giao diện sang trang web (đã fix)
 Lỗi giao diện khi sử dụng thư viện NavLink, 2 phần tử cùng active 1 lúc.
 
-
+Chi tiết xem ở src/component và src/Router
