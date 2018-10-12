@@ -1,0 +1,34 @@
+[
+    {
+        "feature": "Device Mockups",
+        "id": 1,
+        "content": "Ready to use HTML/CSS device mockups, no Photoshop required!",
+        "icon": "icon-screen-smartphone",
+        "detail": "More powerful slug generation method on pure JavaScript. It's basically support transliteration for all Cyrillic characters and many Umlauts (German, Danish, France, Turkish, Ukrainian and etc.) but can be easily extended"
+
+    },
+    {
+        "feature": "Flexible Use",
+        "id": 2,
+        "content": "Put an image, video, animation, or anything else in the screen!",
+        "icon": "icon-camera",
+        "detail": "More powerful slug generation method on pure JavaScript. It's basically support transliteration for all Cyrillic characters and many Umlauts (German, Danish, France, Turkish, Ukrainian and etc.) but can be easily extended"
+
+    },
+    {
+        "feature": "Free to Use",
+        "id": 3,
+        "content": "As always, this theme is free to download and use for any purpose!",
+        "icon": "icon-present",
+        "detail": "More powerful slug generation method on pure JavaScript. It's basically support transliteration for all Cyrillic characters and many Umlauts (German, Danish, France, Turkish, Ukrainian and etc.) but can be easily extended"
+
+    },
+    {
+        "feature": "Open Source",
+        "id": 4,
+        "content": "Since this theme is MIT licensed, you can use it commercially!",
+        "icon": "icon-lock-open",
+        "detail": "More powerful slug generation method on pure JavaScript. It's basically support transliteration for all Cyrillic characters and many Umlauts (German, Danish, France, Turkish, Ukrainian and etc.) but can be easily extended"
+
+    }
+]
