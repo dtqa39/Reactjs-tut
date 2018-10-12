@@ -1,7 +1,10 @@
 import React, { Component } from 'react';
 import {
-    BrowserRouter as
-    Redirect
+    BrowserRouter as Router,
+    Route,
+    Link,
+    Redirect,
+    withRouter
   } from "react-router-dom";
 
 class Contact extends Component {
@@ -29,7 +32,7 @@ class Contact extends Component {
     }
     render() {
         if(this.state.isRedirect === true){
-            console.log(this.state.name);
+            console.log(this.state);
             return <Redirect to="/submit" />;
         }
         console.log(this.state.isRedirect);
@@ -63,14 +66,6 @@ class Contact extends Component {
                         <label>Phone Number</label>
                         <input className="form-control" id="phone" name = "phone" type="tel" onChange = {(event) => this.isChange(event)} placeholder="Phone Number" required="required" data-validation-required-message="Please enter your phone number." />
                         <p className="help-block text-danger" />
-                        </div>
-                        <div class="form-group">
-                          <label for="">Select</label>
-                          <select class="form-control" name="" id="">
-                            <option>Option 1</option>
-                            <option>Option 2</option>
-                            <option>Option 3</option>
-                          </select>
                         </div>
                     </div>
                     <div className="control-group">
