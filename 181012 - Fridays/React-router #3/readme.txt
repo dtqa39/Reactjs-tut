@@ -11,6 +11,7 @@ Tham khảo: https://reacttraining.com/react-router/web/example/auth-workflow
             		   isRedirect: false
         		  };
     			}
+
 	#2. Điều khiển biến isRedicrect
 	Khi biến isRedirect === true thì trang sẽ chuyển hướng sang 1 URL khác.
 		if(this.state.isRedirect === true){
@@ -33,7 +34,6 @@ Tham khảo: https://reacttraining.com/react-router/web/example/auth-workflow
 	//hàm event.preventDefault() dùng để chặn các thao tác mặc định, ví dụ như chuyển trang ngay khi bấm Submit
 
 	#4. Lấy dữ liệu từ Form
-	
 		//Trong render()
 		<input name="name" type="text" onChange = {(event) => this.isChange(event)}/>
 		<input name="email" type="text" onChange = {(event) => this.isChange(event)}/>
