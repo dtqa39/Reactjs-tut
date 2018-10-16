@@ -51,5 +51,5 @@ render() {
     }
 
 
-Chi tiết xem tại src/components/(App.js | AddUser.js | FormSearch.js)
+Chi tiết xem tại src/components/(App.js | AddUser.js | FormSearch.js), preview ở /image
 

@@ -51,5 +51,5 @@ Flow chạy của chương trình:
 
 - Cùng lúc đó, biến addUserForm cũng qua props.addUserForm truyền ngược về FormSearch, hàm showButton thực thi, ẩn button AddNew và hiển thị button Close Adding.
 
-Chi tiết xem tại src/components/(App1.js | AddUser1.js | FormSearch1.js)
+Chi tiết xem tại src/components/(App1.js | AddUser1.js | FormSearch1.js), preview ở /image
 	

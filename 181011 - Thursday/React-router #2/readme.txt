@@ -1,4 +1,4 @@
-React-router <tiếp>
+﻿React-router <tiếp>
 
 	Hàm map() trong React
 	- Tương đương hàm foreach, duyệt từng phần tử và xử lý từng phần tử ấy.
@@ -83,4 +83,4 @@ Lưu ý: typeof(this.props.match.params.id);// string
 	   nên khi so sánh với giá trị id trong file json cần lưu ý sử dụng "===" hay "=="
 	   Ngoài ra, có thể xem xét sử dụng hàm parseInt,...
 
-Chi tiết xem ở src/component và src/Router
+Chi tiết xem ở src/component và src/Router, preview ở /image

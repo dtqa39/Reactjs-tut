@@ -62,6 +62,6 @@ Tham khảo: https://reacttraining.com/react-router/web/example/auth-workflow
 		//Lay gia tri tu input voi name = "email"
 		console.log(this.state.email);
 
-Chi tiết xem trong src/components/Contact.js
+Chi tiết xem trong src/components/Contact.js, preview ở /image
 
 => Hoàn thành router cơ bản bằng Reactjs
