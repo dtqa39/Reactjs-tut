@@ -1,0 +1,1 @@
+﻿Preview bố cục phân chia components được lưu trong folder ./images
